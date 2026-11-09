@@ -3,6 +3,7 @@
 Proyecto final (Equipo 21) de navegación autónoma. Un BMW X5 recorre una ciudad en [Webots](https://cyberbotics.com/) y una red convolucional predice el ángulo de dirección a partir de la cámara frontal. El modelo se entrenó con imágenes capturadas en el mismo mundo y se ejecuta en tiempo real dentro del simulador.
 
 La demostración está en `Proyecto Final _ Equipo 21.mp4`.
+https://drive.google.com/file/d/1wD4n8l5DMxsg_ulRO4labDd2KhKCk5Tx/view?usp=sharing
 
 ## Cómo funciona
 
